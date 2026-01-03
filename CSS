@@ -1,4 +1,4 @@
-// Minecraft Button
+/* Minecraft Button */
 
 #workskin .screenreader {
   position: absolute;
@@ -47,7 +47,7 @@
   margin: auto;
 }
 
-// Minecraft Book
+/* Minecraft Book */
 
 #workskin .mcbook {
   display: block;
@@ -78,7 +78,7 @@
   display: none;
 }
 
-// Google Search Bar
+/* Google Search Ba r*/
 
 #workskin .for-no-ws {
   display: none;
@@ -136,7 +136,7 @@
   left: .4rem;
 }
 
-// Minecraft End Poem 
+/* Minecraft End Poem */
 
 .screenreader {
   position: absolute;
