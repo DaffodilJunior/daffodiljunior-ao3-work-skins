@@ -1,15 +1,15 @@
 <div class="web-search">
 <summary class="search-bar">
-<span><samp class="for-no-ws">SEARCHING FOR: </samp>search text...</span>
+<span><samp class="for-no-ws">SEARCHING FOR: </samp>is miku...</span>
 </summary>
 <hr hidden class="hidden" />
 <blockquote>
-<p>search text <b>example 1</b></p>
-<p>search text <b>example 2</b></p>
-<p>search text <b>example 3</b></p>
-<p>search text <b>example 4</b></p>
+<p>is miku <b>the best vocaloid</b></p>
+<p>is miku <b>bilingual</b></p>
+<p>is miku <b>taller than gumi</b></p>
+<p>is miku <b>a robot</b></p>
 <p class="history">
-<i><samp class="for-no-ws">PREVIOUSLY SEARCHED: </samp>search text example 5</i>
+<i><samp class="for-no-ws">PREVIOUSLY SEARCHED: </samp>is miku green or blue</i>
 </p>
 </blockquote>
 </div> 
