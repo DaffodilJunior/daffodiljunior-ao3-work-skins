@@ -1,4 +1,4 @@
-<div class="discord">
+<div class="discordPhone">
   <div class="discordbody">
 
 <p class="discordheader"><img class="channeltype" src="https://i.imgur.com/JVftVDr.png" /><span class="channelname">CoolDude, DiscordUser, OtherDiscordUser, LovelyPerson, completedouchebag</span>
@@ -7,8 +7,63 @@
 <img class="dheader_button" src="https://imgur.com/EXGb91D.png" />
 </p>
 
+<p class="iconbox">
+    <img class="icon" src="https://i.imgur.com/4TFWQVB.png" />
+  </p>
+
+<p class="discord_user"> <span class="name roledefault">NAME1</span> <span class="dtimestamp">Today at 7:15 AM </span></p>
+
+<p class="discordtext">However, some compromises were made. Instead of max-width being 400px, that unfortunately doesn't scale images on mobile so now max-width is given as a percentage instead. <img class="emoji" src="https://em-content.zobj.net/thumbs/160/twitter/103/pensive-face_1f614.png" /></p>
+
+<p class="discordtext">The emojis classes are essentially the same as Heterochromia_Mars's skin though!
+</p>
+
+<p class="discordtext_bot">
+      <img class="wumboji" src="https://em-content.zobj.net/thumbs/160/twitter/141/face-with-pleading-eyes_1f97a.png" />
+      <img class="wumboji" src="https://em-content.zobj.net/thumbs/160/twitter/228/grinning-face-with-star-eyes_1f929.png" />
+      <img class="wumboji" src="https://em-content.zobj.net/thumbs/160/twitter/103/cherry-blossom_1f338.png" />
+    </p></div>
+    <div class="dmessage">
+
+<p class="iconbox">     <img class="icon" src="https://i.imgur.com/4TFWQVB.png" /> </p>
+
+<p class="discord_user"> <span class="name roledefault">NAME1</span><span class="dtimestamp">Today at 10:10 PM </span></p>
+
+<p class="discordtext">
+        <img class="sent" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Webb%27s_First_Deep_Field.jpg/800px-Webb%27s_First_Deep_Field.jpg" />
+      </p>
+
+<p class="discordtext">Above is what an image looks like now. It would appear a bit small on mobile and a bit large on desktop but that's the sacrifice I had to make.</p>
+
+<p class="discordtext">Links can be real or fake, just like in Heterochromia_Mars's original skin</p>
+
+<p class="discordtext">
+        This is a fake link: <span class="blulink">https://why-did-i-spend-so-much-time-making-a-fake-discord-skin-for-ao3.com.org.gov/</span>
+      </p>
+
+<p class="discordtext">
+        <span class="blulink">http://not-a-real-image-host.com/facepalm_x2_combo.gif</span>
+      </p>
+
+<p class="discordtext_bot">
+        <img class="sent2" src="https://media.tumblr.com/tumblr_loli3rWVNK1qafrh6.gif" />
+      </p></div>
+
+<p class="hr_red">
+        <span>NEW MESSAGE</span>
+      </p><div class="dmessage">
+
+<p class="iconbox">     <img class="icon" src="https://i.imgur.com/FweLE7L.png" /> </p>
+
+<p class="discord_user"> <span class="name roledefault">NAME2</span><span class="dtimestamp">Today at 10:12 PM</span> </p>
+
+<p class="discordtext"> Real links can look exactly like fake links. Just use the standard link with class="blulink" and it should work. <a class="blulink" href="https://i.imgur.com/OOtBPQ4.gif" rel="nofollow">https://i.imgur.com/OOtBPQ4.gif</a></p>
+
+<p class="discordtext_bot">for authenticity the link text should just be the actual url of the link</p></div>
+
 <p class="discordfooter"> <span class="dtextbar">
 <img class="dfooter_lbutton" src="https://i.imgur.com/CuBTomX.png" />
+<span>Message @GC NAME </span>
 <img class="dfooter_rbutton2" src="https://i.imgur.com/JtLaeNH.png" /></span>
   </p></div>
 </div>
