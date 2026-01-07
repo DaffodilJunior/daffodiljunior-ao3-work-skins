@@ -7,7 +7,7 @@ To make sure formatting shows up in your fic, create a work skin, copypaste the 
 
 \<!-- anything in these types of brackets are comments that won't affect any code. -->
 
-The Minecraft sections and Google Search Bars are screen reader compatible. Unfortunately, i have no idea how to make the Discord skin work without Show Creator's Style, or function as intended with a screen reader; the phone notifications function though if you ignore the random giant image. At the moment i'm just posting Discord segments of my fics separately like a traditional chatfic so simple text to speech can function at least. If you do know CSS, please help.
+The Minecraft sections and Google Search Bars are screen reader compatible. Unfortunately, i have no idea how to make the Discord skin work without Show Creator's Style, or function as intended with a screen reader; the phone notifications function though if you ignore the random giant image. At the moment i'm just plannig to post future Discord segments of my fics separately like a traditional chatfic so simple text to speech can function at least. If you do know CSS, please help.
 
 ## Ultraviollett (AO3):
 ### "Mimicking Minecraft for fics- Some Minecraft Work Skins"
