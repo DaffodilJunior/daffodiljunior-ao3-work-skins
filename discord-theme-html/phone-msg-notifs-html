@@ -1,0 +1,12 @@
+<div class="phone">
+<div class="notifdark">
+<p class="notif-iconbox"><img class="notificon" src="https://i.imgur.com/EJwar9D.png" /> <span class="appcircle"> <img class="img_appcircle" src="https://i.imgur.com/4TFWQVB.png" /> </span></p>
+<p class="notiftitle"><span class="notifname">DiscordUser</span> <span class="notiftime"> 16:20</span></p>
+<p class="notiftext">The quick brown fox jumps over the lazy dog.</p>
+</div>
+<div class="notifdark">
+<p class="notif-iconbox"><img class="notificon" src="https://i.imgur.com/EJwar9D.png" /> <span class="appcircle"> <img class="img_appcircle" src="https://i.imgur.com/ScXiKiN.png" /> </span></p>
+<p class="notiftitle"><span class="notifname">WhatsAppUser</span> <span class="notiftime"> 16:20</span></p>
+<p class="notiftext">And so I cry sometimes when I'm lying in bed just to get it all out what's in my head and I, I am feeling a little peculiar</p>
+</div>
+</div>
