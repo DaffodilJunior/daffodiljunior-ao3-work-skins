@@ -864,3 +864,103 @@
 
 /* Phone Notifications by TrojanTeapot (considered a part of the Discord Theme) */
 
+#workskin .notifdark {
+  border-radius: 20px;
+  background: #25242bAA;
+  padding: 20px;
+  padding-top: 15px;
+  width: 300px;
+  height: 35px;
+  color: #ffffff;
+  font-family: sans-serif;
+  text-align: left;
+  margin-bottom: 6px;
+}
+
+#workskin .notiflight {
+  border-radius: 20px;
+  background: #a29fb950;
+  padding: 20px;
+  padding-top: 15px;
+  width: 300px;
+  height: 35px;
+  font-family: sans-serif;
+  text-align: left;
+  margin-bottom: 6px;
+}
+
+#workskin .notif-iconbox {
+  border-radius: 50%;
+  margin-left: 0px;
+  float: left;
+  height: 30px;
+  width: 30px;
+  margin-top: 0px;
+}
+
+#workskin .appcircle {
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  position: relative;
+  display: inline-block;
+  margin-left: 15px;
+  margin-right: 0px;
+  margin-top: -20px;
+}
+
+#workskin .notifname {
+  line-height: 1.5;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+#workskin .notiftime {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 11px;
+  float: right;
+}
+
+#workskin .notiftext {
+  margin: 0.5em;
+  padding: 0;
+  padding-left: 1em;
+  overflow: hidden;
+  max-height: 2.6em;
+  line-height: 1.3em;
+  text-overflow: ellipsis;
+  font-size: 12px;
+  margin-top: -5px;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+}
+
+#workskin .notiftitle {
+  margin: 0.5em;
+  padding: 0;
+  padding-left: 1em;
+  line-height: 1.5;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 12px;
+  margin-top: -5px;
+}
+
+#workskin img.notificon {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+}
+
+#workskin img.img_appcircle {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
