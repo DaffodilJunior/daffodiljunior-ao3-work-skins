@@ -1,7 +1,9 @@
 <div class="discordPhone">
   <div class="discordbody">
 
-<p class="discordheader"><img class="channeltype" src="https://i.imgur.com/JVftVDr.png" /><span class="channelname">CoolDude, DiscordUser, OtherDiscordUser, LovelyPerson, completedouchebag</span>
+<p class="discordheader"><img class="channeltype" src="https://i.imgur.com/JVftVDr.png" />
+<!-- REPLACE THE URL WITH GC ICON IF THERE IS ONE -->
+<span class="channelname">CoolDude, DiscordUser, OtherDiscordUser, LovelyPerson, completedouchebag</span>
 <img class="dheader_button2" src="https://i.imgur.com/ntQUw2u.png" /> 
 <img class="dheader_button" src="https://i.imgur.com/1XfybuD.png" />  
 <img class="dheader_button" src="https://imgur.com/EXGb91D.png" />
