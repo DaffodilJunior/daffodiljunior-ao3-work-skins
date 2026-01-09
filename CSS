@@ -752,7 +752,7 @@
 }
 
 #workskin .phone {
-  max-width: 300px;
+  max-width: 375px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   display: table;
   margin: auto;
@@ -867,13 +867,6 @@
 /* "How to Make iOS Text Messages on AO3" by CodenameCarrot and La_Temperanza on AO3 */
 /* (used as part of the Discord Theme & required for the following phone notifs part) */
 /* https://archiveofourown.org/works/6434845/chapters/14729722?style=creator */
-
-#workskin .phone {
-  max-width: 375px;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  display: table;
-  margin: auto;
-}
 
 /* Phone Notifications by TrojanTeapot (considered a part of the Discord Theme) */
 
