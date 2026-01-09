@@ -1,0 +1,18 @@
+<p class="iconbox">
+    <img class="icon" src="IMGUR LINK FOR PFP" />
+  </p>
+
+<p class="discord_user">
+  <span class="name roledefault">NICKNAME OF THE USER</span>
+  <span class="dtimestamp">MM/DD/YYYY at TIME </span></p>
+
+<p class="discordtext">
+miku miku oo ee oo
+</p>
+
+<p class="discordtext_bot">
+insert text msg
+</p></div>
+
+<!-- a person's last msg must be in discordtext_bot -->
+<!-- if they only send one msg, just delete the discordtext part -->
