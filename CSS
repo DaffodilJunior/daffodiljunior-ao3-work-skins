@@ -215,7 +215,7 @@
 /* hopefullly this works */
 
 #workskin .discordPhone {
-  max-width: 400px;
+  max-width: 375px;
   font-family: "Whitney", Helvetica Neue, Helvetica, Arial, sans-serif;
   margin-top: 1em;
   margin-bottom: 1em;
@@ -869,7 +869,7 @@
 /* https://archiveofourown.org/works/6434845/chapters/14729722?style=creator */
 
 #workskin .phone {
-  max-width: 300px;
+  max-width: 375px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   display: table;
   margin: auto;
