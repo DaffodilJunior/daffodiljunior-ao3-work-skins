@@ -215,7 +215,7 @@
 /* hopefullly this works */
 
 #workskin .discordPhone {
-  max-width: 375px;
+  max-width: 370px;
   font-family: "Whitney", Helvetica Neue, Helvetica, Arial, sans-serif;
   margin-top: 1em;
   margin-bottom: 1em;
@@ -752,7 +752,7 @@
 }
 
 #workskin .phone {
-  max-width: 375px;
+  max-width: 370px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   display: table;
   margin: auto;
@@ -969,4 +969,44 @@
   height: 15px;
   border-radius: 50%;
   margin-bottom: 20px;
+}
+
+/* scroll bar from "How to Make a "Choose Your Own Adventure" Fic" by La_Temperanza */
+/* https://archiveofourown.org/works/11514573 */
+
+#workskin .discordContainer {
+  margin: 0 auto;
+  overflow: hidden;
+  width: 822px;
+  height: 500px;
+}
+
+#workskin .discordContainerMobile {
+  margin: 0 auto;
+  overflow: hidden;
+  width: 375px;
+  height: 600px;
+}
+
+#workskin .page::-webkit-scrollbar {
+  -webkit-appearance: none;
+}
+
+#workskin .page::-webkit-scrollbar:vertical {
+  width: 12px;
+}
+
+#workskin .page::-webkit-scrollbar:horizontal {
+  height: 12px;
+}
+
+#workskin .page::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, .5);
+  border-radius: 10px;
+  border: 2px solid #ffffff;
+}
+
+#workskin .page::-webkit-scrollbar-track {
+  border-radius: 10px;
+  background-color: #ffffff;
 }
