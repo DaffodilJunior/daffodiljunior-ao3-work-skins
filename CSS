@@ -235,7 +235,7 @@
 
 #workskin .iconboxPhone {
   border-radius: 20%;
-  margin-left: -3px;
+  margin-left: -4px;
   float: left;
   height: 40px;
   width: 40px;
@@ -662,7 +662,7 @@
 #workskin .discordtextPhone {
   color: #B4B5B7;
   margin-right: 60px;
-  margin-left: 41px;
+  margin-left: 46px;
   margin-top: 0.5em;
   margin-bottom: 0.5em;
 }
@@ -690,7 +690,7 @@
 #workskin .discordtext_bot_Phone {
   color: #B4B5B7;
   margin-right: 60px;
-  margin-left: 41px;
+  margin-left: 46px;
   margin-top: 0.5em;
   margin-bottom: 1.6em;
 }
