@@ -1,5 +1,6 @@
 <!-- yeah this technically counts as a message. even if it's a oneliner, mark that as discordtext still -->
 <p class="discordtext_bot">
+<!-- remember to add _Phone if necessary -->
 <span class="ur_reaction"> 
 <img class="reactemoji" src="emoji link" /> NUMBER OF PEOPLE WHO HAD REACTED</span>
 </p>
