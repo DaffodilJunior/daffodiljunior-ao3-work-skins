@@ -1,0 +1,21 @@
+<p class="replybox"> </p>
+<!-- add <div class="dmessage_atuser"> if necessary -->
+
+<p class="discordreply"> <img class="replyicon" src="PFP OF PERSON YOURE REPLYING TO" /> 
+<span class="replyname roledefault">@NAME</span> message that is being replied to</p>
+
+<p class="iconbox">
+    <img class="icon" src="PFP" />
+  </p>
+
+<p class="discord_user"> <span class="name roledefault">DiscordUser</span> 
+<span class="dtimestamp">the timestamp</span></p>
+
+<p class="discordtext">
+the actual reply
+</p>
+
+<p class="discordtext_bot">
+btw now you can just put a normal random ass message from here
+</p>
+<!-- if added <div class="dmessage_atuser">, add new </div> -->
