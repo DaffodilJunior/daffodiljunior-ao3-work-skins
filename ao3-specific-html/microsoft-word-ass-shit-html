@@ -1,7 +1,5 @@
 <b>BOLD</b>
-
 <i>ITALICS</i>
-
 <u>UNDERLINE</u>
 
 <blockquote>
@@ -22,3 +20,6 @@ whatever is in the quote
 <li>number 1</li>
 <li>number 2</li>
 </ol>
+
+<!-- link -->
+<a class="blulink" href="LINKHERE</a>
