@@ -45,16 +45,16 @@
 
 #workskin .discordtextPhone {
   color: #B4B5B7;
-  margin-right: 30px;
-  margin-left: 46px;
+  margin-right: 20px;
+  margin-left: 51px;
   margin-top: 0.5em;
   margin-bottom: 0.5em;
 }
 
 #workskin .discordtext_bot_Phone {
   color: #B4B5B7;
-  margin-right: 30px;
-  margin-left: 46px;
+  margin-right: 20px;
+  margin-left: 51px;
   margin-top: 0.5em;
   margin-bottom: 1.6em;
 }
