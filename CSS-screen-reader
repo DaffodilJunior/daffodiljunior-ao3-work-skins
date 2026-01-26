@@ -1,0 +1,13 @@
+/* Ultraviollett's Screen Reader */
+/* compatible with Ultraviollett's google search history and minecraft stuff */
+
+#workskin .screenreader {
+  position: absolute;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
