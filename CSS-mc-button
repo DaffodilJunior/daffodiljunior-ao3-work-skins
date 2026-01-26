@@ -1,0 +1,38 @@
+/* Minecraft Button by Ultraviollett */
+/* compatible with Ultraviollett's Screen Reader */
+
+#workskin .mcbuttondiv {
+  display: flex;
+  background-image: url('https://images.squidge.org/images/2023/11/30/button.png');
+  background-color: grey;
+  height: 9vw;
+  width: 90vw;
+  max-height: 1.3cm;
+  max-width: 13cm;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin: 0 auto 0 auto;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  text-align: center;
+  color: white;
+  line-height: 1;
+}
+
+#workskin .mcbuttondiv hr {
+  display: none;
+}
+
+#workskin .mcbuttondiv:hover {
+  background-image: url("https://images.squidge.org/images/2023/11/30/buttonpressed.png");
+}
+
+#workskin .mcbuttondiv>p {
+  font-family: "Verdana";
+  font-size: larger;
+  font-stretch: extra-expanded;
+  line-height: 1;
+  margin: auto;
+}
