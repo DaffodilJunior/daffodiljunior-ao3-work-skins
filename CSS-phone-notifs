@@ -10,6 +10,7 @@
 }
 
 /* Phone Notifications by TrojanTeapot */
+/* DOES NOT SUPPORT SCREEN READERS OR TTS, SOMEONE PLEASE HELP WORK IT OUT TYSM */
 
 #workskin .notifdark {
   border-radius: 20px;
