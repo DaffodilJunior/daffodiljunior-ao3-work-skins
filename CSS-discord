@@ -1,4 +1,5 @@
-/* Discord Theme by TrojanTeapot */
+/* a fork of the Discord Theme by TrojanTeapot */
+/* with slight modifications from yours truly */
 /* DOES NOT SUPPORT SCREEN READERS OR TTS, SOMEONE PLEASE HELP WORK IT OUT TYSM */
 
 #workskin .discord {
