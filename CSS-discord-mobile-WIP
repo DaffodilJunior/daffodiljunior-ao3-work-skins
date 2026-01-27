@@ -1,5 +1,5 @@
 /* Discord Theme Mobile (a fork of TrojanTeapot's work) */
-/* DOES NOT SUPPORT SCREEN READERS OR TTS, SOMEONE PLEASE HELP WORK IT OUT TYSM */
+/* please use in conjunction with TrojanTeapot's Discord Theme */
 
 #workskin .discord_Phone {
   max-width: 370px;
