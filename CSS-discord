@@ -2,6 +2,64 @@
 /* with slight modifications from yours truly */
 /* DOES NOT SUPPORT SCREEN READERS OR TTS, SOMEONE PLEASE HELP WORK IT OUT TYSM */
 
+#workskin .discord_Phone {
+  max-width: 370px;
+  font-family: "Whitney", Helvetica Neue, Helvetica, Arial, sans-serif;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #313338;
+}
+
+#workskin .iconbox_Phone {
+  border-radius: 10%;
+  margin-left: 1px;
+  float: left;
+  height: 40px;
+  width: 40px;
+  margin-top: 3px;
+}
+
+#workskin .dtextbar_Phone {
+  background-color: #383a40;
+  color: #6b6d76;
+  font-weight: 300;
+  line-height: 30px;
+  border-color: #383a40;
+  border-radius: 10px;
+  padding: 10px 10px 10px 0;
+  width: 350px;
+  max-width: 380px;
+  max-height: 40px;
+  margin: 10px;
+  margin-left: 14px;
+  margin-right: auto;
+  margin-top: 7px;
+  cursor: text;
+  position: relative;
+  overflow: hidden;
+  display: inline-flex;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+#workskin .discordtext_Phone {
+  color: #B4B5B7;
+  margin-right: 20px;
+  margin-left: 51px;
+  margin-top: 0.35em;
+  margin-bottom: 0.35em;
+}
+
+#workskin .discordtext_bot_Phone {
+  color: #B4B5B7;
+  margin-right: 20px;
+  margin-left: 51px;
+  margin-top: 0.35em;
+  margin-bottom: 1.3em;
+}
+
 #workskin .discord {
   max-width: 820px;
   font-family: "Whitney", Helvetica Neue, Helvetica, Arial, sans-serif;
@@ -370,7 +428,7 @@
 
 #workskin .discord_user {
   padding-left: 0px;
-  padding-top: 8px;
+  padding-top: 5px;
   font-weight: 400;
   line-height: 14px;
   margin: 0em;
@@ -381,11 +439,10 @@
 }
 
 #workskin .name {
-  max-width: 20em;
   min-width: 5em;
-  font-weight: bold;
+  font-weight: 500;
   font-size: 15px;
-  margin-top: -2px;
+  margin-top: 1px;
   margin-right: 10px;
   padding-left: 10px;
   overflow: hidden;
@@ -401,8 +458,8 @@
 #workskin .replyname {
   max-width: 20em;
   min-width: 5em;
-  font-weight: bold;
-  font-size: 14px;
+  font-weight: 500;
+  font-size: 15px;
   margin-top: -2px;
   margin-right: 0.2em;
   padding-left: 0.2em;
@@ -412,11 +469,6 @@
   border-bottom: none;
 }
 
-#workskin .name:hover {
-  text-decoration: underline;
-  cursor: pointer;
-}
-
 #workskin .replyname:hover {
   text-decoration: underline;
   cursor: pointer;
@@ -424,7 +476,9 @@
 
 #workskin .dtimestamp {
   color: #6b6d76;
-  font-size: 12px;
+  font-size: 11px;
+  font-weight: 450;
+  padding-top: 2.5px;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
