@@ -1,24 +1,37 @@
-</p><div class="discordPhone">
-  <div class="discordbody">
+<div class="discord_Phone"><div class="discordbody">
 
-<p class="discordheader"><img class="channeltype" src="https://i.imgur.com/OmJDUkh.png" />
-<!-- if nsfw put https://i.imgur.com/SIdWAlK.png instead ^^ -->
-<span class="channelname">
-CHANNELNAME
-</span>
-<span class="channel_info">
-CHANNEL DESCRIPTION
-</span>
-<img class="dheader_button2" src="https://i.imgur.com/VW5mC97.png" /> <img class="dheader_button" src="https://i.imgur.com/ntQUw2u.png" /> 
+<p class="discordheader">
+
+   <img class="channeltype" src="https://i.imgur.com/Nh7qz8J.png">
+   <!-- if nsfw use https://i.imgur.com/SIdWAlK.png instead ^^ -->
+
+   <img class="channeltype2" src="https://i.imgur.com/OmJDUkh.png">
+
+   <span class="channelname">
+
+   MIKU
+
+   </span>
+
+   <img class="dheader_button2" src="https://i.imgur.com/VW5mC97.png">
+
+   <img class="dheader_button" src="https://i.imgur.com/ntQUw2u.png">
+
 </p>
 
-<!-- start pasting stuff here: pfp, username, text -->
+<!-- start pasting stuff here -->
 
-<p class="discordfooter"> 
-<span class="dtextbar"><img class="dfooter_lbutton" src="https://i.imgur.com/CuBTomX.png" /> 
-<span>
-Message #CHANNELNAME
-</span>
-<img class="dfooter_rbutton2" src="https://i.imgur.com/JtLaeNH.png" /></span>
-  </p></div>
-</div>
+<p class="discordfooter">
+
+   <span class="dtextbar_Phone">
+
+      <img class="dfooter_lbutton" src="https://i.imgur.com/CuBTomX.png">
+
+      <span>
+      Message #cohort-bravo
+      </span>
+
+   <img class="dfooter_rbutton2" src="https://i.imgur.com/JtLaeNH.png">
+
+   </span>
+</p></div></div>
