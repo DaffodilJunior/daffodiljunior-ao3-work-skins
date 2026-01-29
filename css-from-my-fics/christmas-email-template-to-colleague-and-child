@@ -149,6 +149,11 @@
   white-space: nowrap;
 }
 
+#workskin .name_reply_Phone:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
 #workskin .discord {
   max-width: 820px;
   font-family: "Whitney", Helvetica Neue, Helvetica, Arial, sans-serif;
