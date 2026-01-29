@@ -116,12 +116,12 @@
 }
 
 #workskin img.replyicon {
-  height: 18px;
-  width: 18px;
+  height: 16px;
+  width: 16px;
   border-radius: 50%;
   vertical-align: middle;
   display: inline;
-  margin-right: -3px;
+  margin-right: -4px;
   margin-bottom: 2px;
 }
 
