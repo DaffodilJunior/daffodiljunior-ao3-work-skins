@@ -636,11 +636,3 @@
 #workskin .roledefault {
   color: #ffffff;
 }
-
-#workskin .roleAculonBaron {
-  color: #b54c4c;
-}
-
-#workskin .roleAculonBravo {
-  color: #d28130;
-}
