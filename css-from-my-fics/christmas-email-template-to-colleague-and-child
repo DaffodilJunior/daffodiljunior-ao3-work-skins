@@ -82,7 +82,7 @@
   float: left;
   border-left: 2px solid #4e5058;
   border-top: 2px solid #4e5058;
-  height: 11px;
+  height: 9px;
   width: 25px;
 }
 
@@ -121,6 +121,7 @@
   float: left;
   height: 40px;
   width: 40px;
+  margin-top: 8px;
 }
 
 #workskin .discordreply_Phone {
@@ -133,6 +134,19 @@
   margin-bottom: -0.5em;
   max-height: 1.7em;
   overflow: hidden;
+}
+
+#workskin .name_reply_Phone {
+  max-width: 16em;
+  font-weight: 500;
+  font-size: 15px;
+  margin-top: 2px;
+  padding-bottom: 2px;
+  margin-left: 10px;
+  margin-right: 9px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 #workskin .discord {
