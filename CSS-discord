@@ -470,9 +470,9 @@
 #workskin .replyname {
   max-width: 20em;
   min-width: 5em;
-  font-weight: bold;
+  font-weight: 500;
   font-size: 14px;
-  margin-top: -2px;
+  margin-top: -2.5px;
   margin-right: 0.2em;
   padding-left: 0.2em;
   overflow: hidden;
