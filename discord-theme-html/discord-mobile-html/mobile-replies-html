@@ -1,0 +1,30 @@
+<p class="replybox_Phone"> </p>
+
+<p class="discordreply_Phone">
+
+   <img class="replyicon_Phone" src="pfp of person you're replying to">
+
+   <span class="replyname_Phone roledefault">
+   NAME or @NAME</span>
+   og msg you're replying to
+   </p>
+
+<p class="iconbox_reply_Phone">
+   <img class="icon" src="pfp of person doing the replying">
+   </p>
+
+<p class="discord_user">
+
+   <span class="name_reply_Phone roledefault">
+   NAME
+   </span> 
+
+   <span class="dtimestamp">
+   TIME
+   </span>
+
+</p>
+
+<p class="discordtext_bot_Phone">
+ACTUAL REPLY
+</p>
