@@ -19,6 +19,13 @@
   padding-left: 10px;
 }
 
+#workskin .iconbox2_Phone {
+  float: left;
+  width: 22px;
+  margin-top: -2px;
+  padding-left: 20px;
+}
+
 #workskin img.channeltype2 {
   border-radius: 50%;
   width: 28px;
@@ -107,7 +114,7 @@
 
 #workskin .replybox_Phone {
   border-radius: 6px 0 0 0;
-  margin-left: -10.5px;
+  margin-left: 29.5px;
   margin-right: 4px;
   margin-top: 12px;
   margin-bottom: -180px;
@@ -127,19 +134,6 @@
   margin-left: 15px;
   margin-right: -3px;
   margin-bottom: 2px;
-}
-
-#workskin .replybox_atuser_Phone {
-  border-radius: 6px 0 0 0;
-  margin-left: 29.5px;
-  margin-right: 4px;
-  margin-top: 12px;
-  margin-bottom: -180px;
-  float: left;
-  border-left: 2px solid #4e5058;
-  border-top: 2px solid #4e5058;
-  height: 7px;
-  width: 25px;
 }
 
 #workskin img.replyicon_atuser_Phone {
