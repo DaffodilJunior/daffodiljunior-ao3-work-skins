@@ -175,7 +175,7 @@
   padding-left: 10px;
 }
 
-#workskin .iconbox_reply_atuser_Phone {
+#workskin .iconbox_atuser_Phone {
   border-radius: 10%;
   margin-left: 1px;
   float: left;
