@@ -13,7 +13,7 @@ miku miku oo ee oo
 
 <p class="discordtext_bot_Phone">
 insert text msg
-</p></div>
+</p>
 
 <!-- a person's last msg must be in discordtext_bot_Phone -->
 <!-- if they only send one msg, just delete the discordtext part -->
