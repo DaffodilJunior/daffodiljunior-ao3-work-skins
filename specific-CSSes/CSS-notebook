@@ -1,3 +1,5 @@
+/* Notebook Linked Paper by La_Temperanza */
+
 #workskin tr:hover, #workskin td:hover { background: none; }
 
 #workskin .paper {
