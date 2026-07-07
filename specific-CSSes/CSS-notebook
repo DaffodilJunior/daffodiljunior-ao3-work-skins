@@ -1,3 +1,41 @@
+If you want post something without a top margin (like this live example), then the coding in the work text would be:
+
+<table class=“paper”>
+   <tr>
+     <td>
+       <div class=“text”>Text here. Text here. Text here.</div>
+     </td>
+   </tr>
+ </table>
+
+If you want post something with a blank top margin (like this live example), then the coding in the work text would be:
+
+<table class=“paper”>
+   <tr>
+     <td>
+
+<div class=“header”> </div>
+<div class=“textwmar”>Text here. Text here. Text here.</div>
+</td>
+   </tr>
+ </table>
+
+(Please notice that for with the top margin, you use textwmar. Without the top margin, you would use text.)
+
+If you want post something with a top margin and title (like this live example), then the coding in the work text would be:
+
+ <table class=“paper”>
+   <tr>
+     <td>
+
+<div class=“header”>
+
+<p class=“titletext”>Title of Paper Here</p></div>
+<div class=“textwmar”>Text here. Text here. Text here.</div>
+</td>
+   </tr>
+ </table>
+
 /* Notebook Linked Paper by La_Temperanza */
 
 #workskin tr:hover, #workskin td:hover { background: none; }
